@@ -5,8 +5,8 @@ An Cross Platform mobile application containing conference schedule made in Reac
 1. [Installation](https://github.com/Sabihashaik/MyConf#installation)
 2. [Features](https://github.com/Sabihashaik/MyConf#features)
 3. [ScreenShots](https://github.com/Sabihashaik/MyConf#screenshots)
-4. [Design Components](https://github.com/Sabihashaik/MyConf#Components)
-5. [Future](https://github.com/Sabihashaik/MyConf#Future)
+4. [Design Components](https://github.com/Sabihashaik/MyConf#components)
+5. [Future](https://github.com/Sabihashaik/MyConf#future)
 
 ## Installation
 1. Download [Expo App](https://expo.io/) 
